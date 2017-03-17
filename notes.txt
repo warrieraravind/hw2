@@ -1,0 +1,1 @@
+import -d data_db -c data_comm --type csv --headerline --file data.csv
